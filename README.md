@@ -29,3 +29,9 @@ In this, we are working on:
 ## aws_lambda_function
 - This resource creates an AWS Lambda function. 
 - This is the core resource that defines your serverless function, including its code, execution role, runtime, and handler information.
+
+```bash
+terraform init
+terraform plan
+terraform apply
+```
