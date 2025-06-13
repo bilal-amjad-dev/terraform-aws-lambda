@@ -31,6 +31,18 @@ In this, we are working on:
 - This is the core resource that defines your serverless function, including its code, execution role, runtime, and handler information.
 
 
+
+
+
+Prerequisites:
+
+- access key and secret key
+- terraform installed
+- vs code
+
+Note: My region is 'ap-south-1a', so you can choose of your choice.
+
+
 Project Structure
 For this example, we'll maintain a clean project structure:
 ```bash
