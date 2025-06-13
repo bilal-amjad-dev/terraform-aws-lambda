@@ -47,6 +47,8 @@ Note: My region is 'ap-south-1a', so you can choose of your choice.
 
 
 Project Structure
+
+
 For this example, we'll maintain a clean project structure:
 ```bash
 .
