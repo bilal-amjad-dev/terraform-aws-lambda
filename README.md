@@ -30,6 +30,17 @@ In this, we are working on:
 - This resource creates an AWS Lambda function. 
 - This is the core resource that defines your serverless function, including its code, execution role, runtime, and handler information.
 
+
+Project Structure
+For this example, we'll maintain a clean project structure:
+```bash
+.
+├── main.tf
+└── python/
+    └── hello-python.py
+```
+
+
 ```bash
 terraform init
 terraform plan
